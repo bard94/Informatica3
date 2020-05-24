@@ -1,6 +1,6 @@
-Primer semestre 
-    tecnologia y ciencia    =	    3.5	
-	educacion y sociedad    =	    3.5	
-	habilidades comunicativas   =	4.4	
-	matematica i=	3
-	fundamentos de tecnologia i =   3
+Segundo semestre:
+tecnologia y ciencia 2 --> 5
+educacion y sociedad 2--> 4
+habilidades comunicativas 2--> 4.4
+matematicas 2 --> 3.2
+fundamentos de tecnologia 2 --> 4.4

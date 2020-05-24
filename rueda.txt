@@ -1,6 +1,6 @@
-Segundo semestre:
-tecnologia y ciencia 2 --> 5
-educacion y sociedad 2--> 4
-habilidades comunicativas 2--> 4.4
-matematicas 2 --> 3.2
-fundamentos de tecnologia 2 --> 4.4
+Tercer semestre:
+ingles I --> 4
+electronicos I --> 4
+matematicas III --> 1
+circuitos I --> 4
+seminario I --> 5

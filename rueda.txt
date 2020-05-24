@@ -1,6 +1,6 @@
-Cuarto semestre:
-ingles II --> 4.8
-electronicos II --> 4.9
-matematicas III --> 1.7
-circuitos II --> 4.8
-seminario II --> 5.0
+Quinto semestre:
+ingles III --> 4.9
+electronicos III --> 4.9
+matematicas III --> 5
+circuitos III --> 4.8
+seminario III --> 3.0

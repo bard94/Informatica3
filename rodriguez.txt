@@ -1,6 +1,6 @@
-  tercer semestre
-matematica iii 3
-Diseño electronico i 3 
-fisica ii 2.9
-circuito ii 3
-Pedagogia y concimiento 3
+ cuarto semestre
+matematica iv 3
+Diseño electronico ii 3 
+circuito iii 3
+Pedagogia y psicología 3
+digitales i 3

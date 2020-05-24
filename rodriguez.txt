@@ -1,6 +1,6 @@
- segundo semestre
-matematica ii 3
-fundamentos de tecnologia ii 3 
-fisica i 3
-circuito i 3
-educacion economia y politica 3 
+  tercer semestre
+matematica iii 3
+Diseño electronico i 3 
+fisica ii 2.9
+circuito ii 3
+Pedagogia y concimiento 3
